@@ -9,7 +9,7 @@
  */
 
 export const site = {
-  name: 'Sayan Ghosh',
+  name: 'aome-edit-Sayan Ghosh',
   initials: 'SG',
   profileImage: 'assets/bitmoji-avatar.svg',
   role: 'Full Stack Software Engineer \u00b7 AI/ML Developer',
